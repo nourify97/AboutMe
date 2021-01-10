@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Noureddine Oubihi</string>
+    <string name="yellow_star">Yellow star</string>
+    
+    <string name="bio">
+        Hi my name is Noureddine I\'m from Morocco living here in Italy.
+        \n\nI\'m studying Android Kotlin Developer course from Udacity to learn
+        \nand improve my skills on app development, with the purpose of making my
+        own apps to publish in the Play store and also find a job in this field.
+        \n\nThe journey is going amazing I\'m learning so much that i was missing and
+        \nlove the process.\n\n
+    </string>
+    <string name="what_is_your_nickname">What is your Nickname ?</string>
+    <string name="done">Done</string>
+</resources>
